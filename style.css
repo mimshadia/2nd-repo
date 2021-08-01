@@ -1,9 +1,17 @@
 h1{
     color: red;
     background-color: thistle;
+    font-family: cursive;
 }
 h2{
     color: yellow;
     font-size: larger;
     font-family: cursive;
+    background-color: thistle;
+}
+h3{
+    color: green;
+    font-size: small;
+    font-family: cursive;
+    background-color: thistle;
 }
