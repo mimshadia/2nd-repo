@@ -15,3 +15,6 @@ h3{
     font-family: cursive;
     background-color: thistle;
 }
+p{
+    text-align: justify;
+}
